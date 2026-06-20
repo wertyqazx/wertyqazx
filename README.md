@@ -8,7 +8,7 @@ I build small but practical projects at the intersection of software development
 2nd-year ITMO University student · Business Informatics · writing mostly in Python.
 
 [![GitHub](https://img.shields.io/badge/GitHub-wertyqazx-181717?style=flat&logo=github&logoColor=white)](https://github.com/wertyqazx)
-[![Email](https://img.shields.io/badge/Email-redcrosssolo@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:redcrosssolo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-odyakovlev@mail.ru-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:odyakovlev@mail.ru)
 
 </div>
 
